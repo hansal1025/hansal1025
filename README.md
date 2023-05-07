@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @hansal1025
-- 👀 I’m interested in Machine Learning and Artificial Intelligence.
-- 🌱 I’m currently learning in IBDP-2.
-- 📓 I’m looking to learn coding languages like Python & C++. 
+- 👀 I’m interested in Mechatronics and Cyber-Physical System.
+- 🌱 I’m currently learning in First Year of my Mechanical Engineering.
 - 📫 How to reach me kachharahansal@gmail.com.
 
 <!---
